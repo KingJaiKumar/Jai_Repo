@@ -10,6 +10,7 @@ public class SpiralPatternExample2
 public static void printPattern(int n)  
 {  
 //detrmines the boundary size of the array  
+//testing 
 int size = 2 * n - 1;  
 //inner loop  
 for(int i = 1; i <= size; i++)  
